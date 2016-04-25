@@ -1,0 +1,36 @@
+ormooaun necarem ruamus 215
+
+et sumatur N 0 = E Z, circumque AM et O punctum
+describatur segmentum Α OM. itaque LA OM = ΘΕΗ.
+praeterea ponatur L AN Π = ΑΖΕ, et sumatur
+NH = ΕΖ, circumque AM et Π describatur segmen-
+tum circuli ΑΠΜ. erit igitur L AHM= ΑΕΒ. iam
+quoniam LE<O et L 0= ΘΕΗ, L Ξ = ΓΕΔ,
+minor adparebit ΓΔ quam H Θ. rursus quoniam
+L ΘΕ Η < ΑΕΒ, minor adparebit Η Θ quam ΑΒ.
+
+37.
+Rotae curruum modo circulares modo oblongae
+adparebunt.
+sit enim rota, euius diametri sint ΔΖ, ΒΓ. ita·
+que ubi recta ab oculo ad centrum dueta ad planum
+perpendicularis est uel radio
+aequalis, diametri aequales
+adparebunt‚ ut in proposi-
+tione praecedenti ¹) demon-
+stratum est. quare cum haec
+ita sunt, rota currus circu·
+laris uidetur. sed curru
+praeteruecto ubi radius ab
+oculo ad centrum cadens ne-
+que iam ad planum rotae
+perpendicularis est neque radio eius aequalis, diametri
+inaequales adparebunt rursus propter propositionem
+ante demonstratam [prop. 36]. ergo rota oblonga
+adparebit.
+
+1) Η. e. per propp. 34-35. itaque fortasse propp. 34, 35, 36
+in unam coniungendae erant.
+
+ 
+
